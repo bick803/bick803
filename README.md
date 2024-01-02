@@ -1,8 +1,8 @@
 ### Hi there 👋
-I'm currently working on the Product Marketing team at Github.
-Pronouns: he/him
-Ask me about all things sports, pokemon, and star wars.
-Fun Fact: I can perform a perfect wookie roar.
+<p>I'm currently working on the Product Marketing team at Github.</p>
+<p></p>Pronouns: he/him</p>
+<p></p>Ask me about all things sports, pokemon, and star wars.</p>
+<p></p>Fun Fact: I can perform a perfect wookie roar.</p>
 <!--
 **bick803/bick803** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
